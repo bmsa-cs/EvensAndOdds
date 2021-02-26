@@ -15,8 +15,6 @@ how many odd integers were entered.
 import os
 import importlib.util
 
-import random
-
 def run_tests():
   """
   This function will check for the pytest module
@@ -29,11 +27,16 @@ def run_tests():
   print(command)
   os.system(command) # Run pytest command
 
+### BEGIN EDITING HERE
+
 def main():
   """This function should contain the code for EvensAndOdds."""
   x = int(input("How many numbers do you need to check?"))
   
+  # Are the commands in your main function indented?
 
+
+### STOP EDITING HERE
 
 if __name__ == "__main__":
   main() # Call main function
