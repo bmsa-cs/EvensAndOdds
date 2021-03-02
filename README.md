@@ -37,6 +37,7 @@ Enter number: 10
 Enter number: 3
 3 is an odd number.
 Enter number: 400
+400 is an even number.
 You entered 2 even number(s).
 You entered 1 odd number(s).
 ```
